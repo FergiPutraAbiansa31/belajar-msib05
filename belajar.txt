@@ -1,4 +1,4 @@
-Belajar push ke github
+Belajar push ke git
 29 Agustus 2023
 
 Data terbaru

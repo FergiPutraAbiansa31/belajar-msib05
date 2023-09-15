@@ -16,6 +16,8 @@ body {
 
 .topnav a {
   text-decoration: none;
+  font-family: garamond;
+  font-weight: bold;
   color: #000;
   width: 100px;
   display: block;
@@ -24,8 +26,8 @@ body {
 }
 .topnav a:hover {
   background-color: #ddd;
-  border: 2px #ffa500;
-  background: #ffa500;
+  border: 2px orange;
+  background: orange;
 }
 
 .header {
@@ -51,6 +53,7 @@ body {
 .column.middle {
   width: 50%;
   text-align: center;
+  font-family: garamond;
 }
 
 .column.side {
@@ -73,9 +76,10 @@ body {
 }
 
 .footer {
-  background-color: orange;
+  background-color: #00493c;
+  font-weight: bold;
   padding: 10px;
   text-align: center;
-  font-family: Bodoni Bd Bt;
+  font-family: garamond;
   color: white;
 }
